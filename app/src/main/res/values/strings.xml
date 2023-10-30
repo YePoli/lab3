@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="b4">1</string>
+    <string name="b6">2</string>
+    <string name="b5">3</string>
+    <string name="b8">4</string>
+    <string name="button2">5</string>
+    <string name="button3">6</string>
+    <string name="b3">+</string>
+    <string name="b9">7</string>
+    <string name="b10">8</string>
+    <string name="b12">9</string>
+    <string name="b13">0</string>
+    <string name="b1">Clear</string>
+    <string name="b2">Back</string>
+    <string name="b15">=</string>
+    <string name="b7">-</string>
+    <string name="b0">*</string>
+    <string name="button4">/</string>
+    <string name="b14">+/-</string>
+    <string name="button11">√</string>
+
+</resources>
